@@ -24,7 +24,7 @@ Step 1: Setup
 
 Clone the repository:
 
-git clone https://github.com/yourusername/js-quiz-app.git
+git clone https://github.com/HassanAhmedKhan31/Quiz-App
 cd js-quiz-app
 
 Open the index.html file in your web browser, or use Live Server in VS Code for live preview.
